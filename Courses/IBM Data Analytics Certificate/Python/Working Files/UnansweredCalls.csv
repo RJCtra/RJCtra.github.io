@@ -1,0 +1,299 @@
+,Client type,Age,Sex,Ethnicity,Region,Call answered
+1,JS,43,F,NZ Maori,Waikato,n
+2,SPS,42,F,NZ Maori,Northland,n
+4,SPS,43,F,NZEU,Canterbury,n
+5,SPS,44,F,NZEU,Tasman,n
+6,JS,62,M,NZEU,Tasman,n
+7,JS,42,M,NZEU,Manawatū-Whanganui,n
+8,JS,46,F,NZEU,Northland,n
+10,JS,41,M,English,Manawatū-Whanganui,n
+12,SPS,35,F,NZ Maori / NZEU,Canterbury,n
+13,JS,39,M,NZEU,Auckland,n
+15,SPS,33,F,NZEU,Canterbury,n
+18,SPS,41,F,Samoan,Auckland,n
+20,SPS,33,F,Tongan,Auckland,n
+21,JS,31,M,Chinse,Auckland,n
+23,JS,27,M,Gypsy / EU,Auckland,n
+24,JS,19,F,NZ Maori,Auckland,n
+26,JS,26,M,NZ Maori,Hawkes Bay,n
+28,JS,23,F,NZEU,Waikato,n
+29,JS,27,M,NZEU,Wellington,n
+30,SPS,30,F,NZEU,Taranaki,n
+31,JS,30,F,Samoan,Auckland,n
+32,JS,21,M,,Canterbury,n
+33,SPS,33,F,Fijian,Auckland,n
+34,JS,30,M,India,Southland,n
+35,JS,19,M,Kiribati,Auckland,n
+36,JS,20,M,NZ Maori,Manawatū-Whanganui,n
+40,SPS,26,F,Samoan,Bay of Plenty,n
+41,JS,23,F,South African,Canterbury,n
+44,JS,52,F,,Bay of Plenty,n
+45,SPS,21,F,,Auckland,n
+47,JS,53,M,Cook Island Maori,Hawkes Bay,n
+49,JS,53,M,NZ Maori,Bay of Plenty,n
+52,JS,54,M,NZ Maori,Wellington,n
+53,SLP,62,M,NZ Maori,Canterbury,n
+54,SLP,64,M,NZ Maori,Bay of Plenty,n
+57,JS Sole,55,F,NZ Maori,Wellington,n
+60,JS,54,M,NZEU,Auckland,n
+62,JS,56,F,NZEU,Hawkes Bay,n
+64,JS,54,M,Samoan,Auckland,n
+67,JS,54,M,NZ Maori,Otago,n
+70,JS,51,M,NZ Maori / NZEU,Hawkes Bay,n
+71,JS,49,M,NZEU,Taranaki,n
+72,JS,62,F,NZEU,Waikato,n
+77,JS,57,M,Tongan,Auckland,n
+78,JS,45,M,Cook Island Maori,Auckland,n
+81,JS,46,F,NZ Maori,Wellington,n
+83,JS,46,F,NZEU,Otago,n
+84,JS,44,M,NZEU,Wellington,n
+88,SLP,56,F,NZEU,Auckland,n
+89,JS,48,F,NZEU / Tongan,Northland,n
+91,JS,36,M,Cook Island Maori,Wellington,n
+92,SPS,37,F,Malaysian Chinese / NZ Maori,Auckland,n
+93,JS,62,F,Niuean,Auckland,n
+94,JS,39,F,Niuean,Auckland,n
+95,JS,43,F,NZ Maori,Auckland,n
+98,SPS,37,M,NZ Maori,Auckland,n
+101,JS,43,M,NZEU,Bay of Plenty,n
+102,JS,38,M,NZEU,Bay of Plenty,n
+103,SPS,39,F,NZEU,Auckland,n
+104,JS,37,M,NZEU,Waikato,n
+106,JS,41,M,NZEU,Manawatū-Whanganui,n
+107,JS,43,F,Samoan,Auckland,n
+109,SPS,40,F,Samoan,Hawkes Bay,n
+112,SLP,40,F,Tongan,Auckland,n
+113,JS,36,M,Afghani,Auckland,n
+116,JS,33,M,NZ Maori,Taranaki,n
+117,SPS,37,M,NZ Maori,Bay of Plenty,n
+119,SPS,37,F,NZ Maori,Northland,n
+121,JS Sole,32,M,NZ Maori / Australian,Northland,n
+122,JS,35,M,NZ Maori / NZEU / Tongan,Bay of Plenty,n
+124,JS,33,F,NZ Maori / Samoan / Cook Island Maori,Bay of Plenty,n
+125,JS,33,F,NZEU,Waikato,n
+126,JS,34,M,NZEU,Canterbury,n
+127,JS,35,M,NZEU,Canterbury,n
+128,JS,33,M,NZEU,Waikato,n
+130,JS,33,M,NZEU,Canterbury,n
+132,JS,34,M,Tongan,Auckland,n
+134,SPS,31,M,Cook Island Maori,Waikato,n
+135,JS,33,F,Cook Island Maori / NZEU,Taranaki,n
+136,JS,32,M,Fijian Indian,Auckland,n
+137,JS,31,F,NZ Maori,Auckland,n
+138,JS,32,M,NZ Maori,Waikato,n
+139,JS,35,M,NZ Maori,Manawatū-Whanganui,n
+140,JS,31,M,NZ Maori,Manawatū-Whanganui,n
+141,JS,31,M,NZ Maori,Auckland,n
+143,JS,30,M,NZ Maori / NZEU,Tasman,n
+144,JS,31,M,NZ Maori / NZEU,Marlborough,n
+146,JS,31,F,NZEU,Waikato,n
+148,JS,30,M,NZEU,Wellington,n
+150,JS,30,M,NZEU,Bay of Plenty,n
+154,SLP,29,F,Niuean / NZ Maori,Auckland,n
+155,JS,29,F,NZ Maori,Waikato,n
+156,JS,30,M,NZ Maori,Waikato,n
+157,JS,28,M,NZ Maori,Tasman,n
+161,JS,26,F,NZEU,Canterbury,n
+162,JS,28,M,NZEU,Southland,n
+163,JS,30,M,NZEU,Auckland,n
+164,SPS,30,F,NZEU,Auckland,n
+165,JS,31,M,NZEU / Europeanropean,Taranaki,n
+166,SPS,30,F,Samoan,Wellington,n
+168,SPS,29,F,Samoan,Manawatū-Whanganui,n
+171,JS,29,M,Niuean,Wellington,n
+172,JS,19,F,NZ Maori,Auckland,n
+173,JS,26,F,NZ Maori,Northland,n
+175,JS,24,M,NZ Maori,Auckland,n
+177,JS,27,M,NZ Maori,Bay of Plenty,n
+178,JS,23,M,NZ Maori,Hawkes Bay,n
+180,SPS,26,F,NZEU,Canterbury,n
+181,JS,24,F,NZEU,Southland,n
+183,JS,28,M,NZEU,Bay of Plenty,n
+185,JS,45,F,Tamil,Wellington,n
+186,JS,19,M,Tongan,Auckland,n
+187,JS,25,F,Tongan,Waikato,n
+191,JS,24,F,NZ Maori,Bay of Plenty,n
+192,JS,21,M,NZ Maori,Auckland,n
+196,SPS,21,F,NZ Maori,Manawatū-Whanganui,n
+197,JS,22,M,NZ Maori,Auckland,n
+200,JS,18,F,NZEU,Auckland,n
+202,JS,24,M,NZEU,Wellington,n
+203,JS,23,F,NZEU,Wellington,n
+204,JS,22,M,NZEU,Auckland,n
+208,SLP,21,M,Samoan,Auckland,n
+209,JS,19,M,,Hawkes Bay,n
+211,JS,27,M,Cook Island Maori,Waikato,n
+213,JS,21,M,NZ Maori,Wellington,n
+214,JS,19,F,NZ Maori,Auckland,n
+215,JS,29,M,NZ Maori,Northland,n
+216,JS,24,M,NZ Maori,Waikato,n
+217,JS,24,M,NZEU,Auckland,n
+218,JS,36,M,NZEU,Manawatū-Whanganui,n
+220,JS,24,M,NZEU,Otago,n
+221,JS,23,M,NZEU,Auckland,n
+222,JS,25,M,NZEU,Manawatū-Whanganui,n
+225,JS,46,M,Samoan,Auckland,n
+227,JS,32,M,Tongan,Auckland,n
+228,JS,20,M,,Canterbury,n
+229,JS,21,M,,Hawkes Bay,n
+230,EB,43,F,Nepal,Otago,n
+233,SLP,53,M,NZ Maori,Northland,n
+235,SLP,61,M,NZ Maori / NZEU,Canterbury,n
+238,JS,58,F,NZEU,Wellington,n
+240,JS,59,F,NZEU,Tasman,n
+245,JS,27,F,Samoan,Taranaki,n
+247,JS,54,F,NZ Maori,Auckland,n
+248,JS,49,M,NZ Maori / NZEU,Taranaki,n
+252,JS,49,F,NZEU,Canterbury,n
+253,JS,59,F,NZEU,Wellington,n
+255,JS,64,M,Samoan,Auckland,n
+256,JS,54,M,,Bay of Plenty,n
+262,JS,42,M,NZEU,Otago,n
+264,JS,58,F,NZEU,Wellington,n
+265,JS,43,F,NZEU,Wellington,n
+267,JS,42,F,NZEU,Bay of Plenty,n
+268,JS,45,M,NZEU,Canterbury,n
+270,JS,46,F,NZEU,Taranaki,n
+273,SPS,38,F,NZ Maori,Taranaki,n
+274,SPS,42,F,NZ Maori,Waikato,n
+277,JS,42,F,NZEU,Canterbury,n
+278,SPS,42,F,NZEU,Otago,n
+280,JS Sole,48,F,Samoan,Auckland,n
+281,JS,39,F,Samoan,Waikato,n
+283,JS Sole,40,F,Tongan,Auckland,n
+286,SPS,38,F,NZ Maori / NZEU,Northland,n
+288,JS,42,F,NZEU,Wellington,n
+289,SLP,37,F,NZEU,Manawatū-Whanganui,n
+290,JS,38,F,NZEU,Southland,n
+291,SPS,36,F,NZEU,Hawkes Bay,n
+294,SPS,38,F,NZEU,Tasman,n
+297,SPS,39,F,Samoan,Auckland,n
+300,JS,32,F,NZ Maori,Bay of Plenty,n
+301,SPS,33,F,NZ Maori / NZEU,Manawatū-Whanganui,n
+305,SPS,31,F,NZEU,Wellington,n
+309,JS,28,F,NZ Maori,Bay of Plenty,n
+310,SPS,31,F,NZ Maori,Auckland,n
+311,JS,30,M,NZ Maori,Auckland,n
+314,JS,29,F,NZEU,Canterbury,n
+316,SPS,31,F,NZEU,Wellington,n
+317,SPS,30,F,NZEU,Bay of Plenty,n
+318,JS,29,F,NZEU,Wellington,n
+319,JS,30,F,NZEU / English,Gisborne,n
+320,JS,29,M,NZEU / Greek,Wellington,n
+321,SPS,31,F,Samoan,Auckland,n
+322,SPS,37,F,Samoan,Wellington,n
+323,SPS,32,F,Samoan,Auckland,n
+324,SPS,24,F,Admiralty Islander,Waikato,n
+325,SPS,43,F,Chinese,Auckland,n
+326,SPS,26,F,Cook Island Maori,Wellington,n
+327,SLP,27,F,NZ Maori,Otago,n
+329,JS,26,F,NZEU,Auckland,n
+330,JS,29,M,NZEU,Taranaki,n
+335,JS,29,F,Samoan,Auckland,n
+336,SPS,55,M,Samoan,Auckland,n
+337,SPS,27,F,Samoan,Auckland,n
+338,SPS,29,F,Samoan,Auckland,n
+342,SPS,28,F,NZ Maori,Wellington,n
+343,JS,20,M,NZ Maori / NZEU,Wellington,n
+345,JS,24,M,NZEU,Manawatū-Whanganui,n
+348,JS,21,M,NZEU,Otago,n
+350,JS,25,F,NZEU,Canterbury,n
+356,JS,24,F,NZ Maori,Otago,n
+364,JS,29,F,Samoan,Auckland,n
+368,SLP,57,F,Cook Island Maori,Manawatū-Whanganui,n
+371,JS,63,F,NZ Maori,Hawkes Bay,n
+372,JS,56,F,NZEU,Otago,n
+374,JS,62,M,NZEU,Manawatū-Whanganui,n
+379,JS,49,F,NZ Maori,Northland,n
+382,SLP,48,F,NZEU,Wellington,n
+385,JS,44,M,Iraqi,Wellington,n
+386,JS,44,F,NZ Maori,Southland,n
+387,JS,39,F,NZ Maori,Gisborne,n
+388,JS,44,F,NZ Maori,Waikato,n
+389,SLP,43,M,NZ Maori,Wellington,n
+390,JS Sole,56,F,NZ Maori,Wellington,n
+391,JS,43,F,NZ Maori,Hawkes Bay,n
+392,JS,41,M,NZ Maori,Wellington,n
+393,JS,41,M,NZ Maori,Canterbury,n
+394,JS,43,M,NZ Maori / NZEU,Waikato,n
+395,JS,54,M,NZEU,Northland,n
+399,JS,43,M,NZEU,Southland,n
+401,JS,45,F,Samoan,Auckland,n
+402,JS,55,F,,Canterbury,n
+403,JS,24,M,Cook Island Maori,Northland,n
+405,JS,21,M,NZ Maori,Hawkes Bay,n
+406,JS,27,F,NZ Maori,Wellington,n
+408,JS,23,F,NZ Maori / NZEU,Auckland,n
+413,JS,25,M,,Manawatū-Whanganui,n
+415,JS,58,F,NZEU,Manawatū-Whanganui,n
+420,JS,30,F,NZEU,Canterbury,n
+422,JS,64,F,Colombian,Waikato,n
+424,JS,25,M,NZ Maori,Gisborne,n
+427,JS,58,M,NZ Maori,Bay of Plenty,n
+428,JS,53,M,NZ Maori,Hawkes Bay,n
+432,JS,57,M,NZEU,Auckland,n
+433,JS,50,F,NZEU / British,Auckland,n
+434,JS,45,F,NZEU / European,Bay of Plenty,n
+437,JS,52,F,,Waikato,n
+438,JS,41,F,NZ Maori,Auckland,n
+440,JS,42,M,NZEU,Southland,n
+443,JS,35,GD F,NZ Maori / NZEU,Auckland,n
+446,JS,28,M,NZ Maori,Hawkes Bay,n
+447,JS,29,F,NZ Maori,Southland,n
+450,JS,29,F,NZEU,Southland,n
+452,SLP,33,M,Tongan,Auckland,n
+453,JS,23,M,NZ Maori,Auckland,n
+454,SPS,28,F,NZ Maori / Cook Island Maori,Bay of Plenty,n
+455,JS,23,M,NZ Maori / NZEU,Canterbury,n
+457,JS,22,M,,Wellington,n
+464,JS,26,M,Samoan,Auckland,n
+465,SPS,31,F,Samoan,Otago,n
+467,JS,50,M,NZ Maori,Bay of Plenty,n
+470,JS,24,F,Samoan,Auckland,n
+553,JS,57,F,Cook Island Maori,Auckland,n
+554,JS,56,M,NZ Maori,Tasman,n
+556,JS,62,F,NZ Maori,Waikato,n
+557,SLP,53,F,NZ Maori,Waikato,n
+558,JS,53,F,NZ Maori / NZEU,Bay of Plenty,n
+569,JS,31,F,NZ Maori,Bay of Plenty,n
+570,JS,30,M,NZ Maori,Bay of Plenty,n
+574,JS,33,M,NZEU,Wellington,n
+576,JS,28,M,Filipino,Waikato,n
+577,JS,29,M,NZ Maori,Northland,n
+578,JS,25,M,NZ Maori,Waikato,n
+579,JS,27,F,NZ Maori,Auckland,n
+580,JS,25,M,NZ Maori,Manawatū-Whanganui,n
+581,JS,26,M,NZ Maori / NZEU,Northland,n
+582,JS,28,M,NZEU,Canterbury,n
+584,JS,44,F,Samoan,Auckland,n
+586,JS,20,M,NZ Maori,Bay of Plenty,n
+587,JS,23,M,NZ Maori,Taranaki,n
+588,JS,24,M,NZ Maori,Bay of Plenty,n
+589,JS,21,M,NZ Maori,Northland,n
+590,JS,22,M,NZ Maori,Bay of Plenty,n
+591,JS,27,M,NZ Maori,Northland,n
+594,JS,18,M,NZ Maori / Cook Island Maori,Auckland,n
+595,JS,24,M,NZEU,Otago,n
+596,JS,22,M,NZEU,Waikato,n
+599,JS,23,M,Chinese,Auckland,n
+608,JS,62,F,NZEU,Canterbury,n
+611,EB,19,M,Samoan,Auckland,n
+612,JS,20,M,Samoan,Auckland,n
+622,SLP,41,F,NZ Maori / NZEU,Bay of Plenty,n
+628,JS,33,M,NZ Maori / NZEU,Wellington,n
+629,SPS,37,F,NZ Maori / NZEU,Otago,n
+630,SPS,35,F,NZ Maori / NZEU,Wellington,n
+634,SPS,40,F,Chinese,Canterbury,n
+636,JSSH,31,F,NZEU / English,Canterbury,n
+638,SPS,30,F,Tongan,Auckland,n
+639,SPS,27,F,Cook Island Maori,Auckland,n
+641,JS,25,F,NZ Maori,Wellington,n
+643,SLP,27,F,NZEU,Wellington,n
+644,SPS,32,F,NZEU,Canterbury,n
+645,JS,36,M,NZEU,Taranaki,n
+646,JSSH,26,F,,Auckland,n
+651,JS,24,F,NZ Maori / NZEU,Waikato,n
+653,JS,21,F,NZEU,Waikato,n
+654,JS,21,M,NZEU,Wellington,n
+656,JSSH,19,F,NZEU / Japanese,Auckland,n
+659,JSSH,24,M,,Auckland,n
